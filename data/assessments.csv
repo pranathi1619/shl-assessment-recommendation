@@ -1,0 +1,7 @@
+assessment_id,assessment_name,job_role,skills,experience_level,description
+1,Coding Skills Test,Software Engineer,"Python, DSA, Problem Solving",Fresher,"Evaluates coding ability and algorithmic thinking"
+2,Advanced Coding Test,Software Engineer,"Java, System Design",Experienced,"Assesses advanced coding and design skills"
+3,Cognitive Ability Test,Data Analyst,"Logical Reasoning, Quantitative Ability",Any,"Measures problem-solving and reasoning ability"
+4,Personality Assessment,HR Executive,"Communication, Behavior Analysis",Any,"Evaluates personality traits and work behavior"
+5,Sales Aptitude Test,Sales Executive,"Negotiation, Communication",Any,"Assesses sales aptitude and persuasion skills"
+6,Technical Aptitude Test,IT Support,"Networking, Troubleshooting",Fresher,"Tests technical fundamentals and IT knowledge"
