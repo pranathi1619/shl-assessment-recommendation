@@ -1,7 +1,8 @@
 assessment_id,assessment_name,job_role,skills,experience_level,description
-1,Coding Skills Test,Software Engineer,"Python, DSA, Problem Solving",Fresher,"Evaluates coding ability and algorithmic thinking"
-2,Advanced Coding Test,Software Engineer,"Java, System Design",Experienced,"Assesses advanced coding and design skills"
-3,Cognitive Ability Test,Data Analyst,"Logical Reasoning, Quantitative Ability",Any,"Measures problem-solving and reasoning ability"
-4,Personality Assessment,HR Executive,"Communication, Behavior Analysis",Any,"Evaluates personality traits and work behavior"
-5,Sales Aptitude Test,Sales Executive,"Negotiation, Communication",Any,"Assesses sales aptitude and persuasion skills"
-6,Technical Aptitude Test,IT Support,"Networking, Troubleshooting",Fresher,"Tests technical fundamentals and IT knowledge"
+1,SHL Verify Numerical Ability,Measures numerical reasoning and data interpretation skills,"Numerical Reasoning, Data Analysis",40 mins,General,https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/
+2,SHL Verify Verbal Ability,Assesses verbal reasoning and comprehension skills,"Verbal Reasoning, Communication",30 mins,General,https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/
+3,SHL OPQ32 Personality Questionnaire,Evaluates workplace personality and behavioral traits,"Personality, Behavior Analysis",45 mins,General,https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/
+4,SQL Server Assessment,Tests SQL querying and database fundamentals,"SQL, Databases",60 mins,IT,https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/
+5,Python Programming Assessment,Evaluates Python coding and problem-solving skills,"Python, Programming",90 mins,IT,https://www.shl.com/solutions/products/product-catalog/view/python-new/
+6,Selenium Automation Test,Assesses Selenium WebDriver automation skills,"Selenium, Automation Testing",60 mins,QA,https://www.shl.com/solutions/products/product-catalog/view/selenium-new/
+7,Manual Testing Fundamentals,Tests software testing concepts and test case design,"Manual Testing, QA",45 mins,QA,https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/
